@@ -40,8 +40,8 @@ function createPost() {
 
     const head = document.createElement("div");
     head.setAttribute("id", "header");
-    //head.innerHTML = '<h1 id="herohead">' + x["title"] + '</h1>';
-    head.innerHTML = '<img id="heading-img"  src="'+x["title"] + '"/>';
+    head.innerHTML = '<h1 id="herohead">' + x["title"] + '</h1>';
+    //head.innerHTML = '<img id="heading-img"  src="'+x["title"] + '"/>';
     document.getElementById("app").appendChild(head);
 
     const main = document.createElement("div");
