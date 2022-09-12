@@ -1,6 +1,6 @@
-// by অম্লান সাহা কুন্ডু
+//বকুল ফুলের মালা
 const x = {
-    "title": "বকুল ফুলের মালা",
+    "title": "https://github.com/PradipS98/bokulfulermala/blob/main/bfm.png?raw=true",
     "apiKey": "729fc4ebdde6ab09bb39",
     "author": "প্রদীপ সুতার",
     "showAuth" : true,
