@@ -1,6 +1,6 @@
 //বকুল ফুলের মালা
 const x = {
-    "title": "https://github.com/PradipS98/bokulfulermala/blob/main/bfm.png?raw=true",
+    "title": "বকুল ফুলের মালা",
     "apiKey": "729fc4ebdde6ab09bb39",
     "author": "প্রদীপ সুতার",
     "showAuth" : true,
